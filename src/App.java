@@ -9,7 +9,7 @@ public class App {
 
         while (loop) {
             System.out.println("\n Meny:");
-            System.out.println("Lägg till elev info");
+            System.out.println("1. Lägg till elev info");
             System.out.println("2. Visa alla elevernas information (lol din creep)");
             System.out.println("3. Avlsut program");
 
